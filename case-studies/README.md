@@ -14,7 +14,9 @@
 ### Electroweak physics at the Z peak
 
 #### General references
-[Precision Electroweak Measurements on the Z Resonance](https://arxiv.org/abs/hep-ex/0509008): The Phys Report from the LEP & SLD Electroweak WG, 2006
+- [Precision Electroweak Measurements on the Z Resonance](https://arxiv.org/abs/hep-ex/0509008): The Phys Report from the LEP & SLD Electroweak WG, 2006
+- [Vol. 3 (2019): Standard Model Theory for the FCC-ee Tera-Z stage](https://e-publishing.cern.ch/index.php/CYRM/issue/view/89): Report on the Mini-Workshop Precision EW and QCD Calculations for the FCC Studies: Methods and Tools,
+
 
 #### Case studies
 - [The ratio Rl](lineshape/rl): geometrical acceptance for lepton pairs
